@@ -1,7 +1,7 @@
 function Home(params) {
     return(
         <h1>
-            Frase de impacto aqui
+            Se gostou da uma risadinha!
         </h1>
     )
 } export default Home;
